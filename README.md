@@ -1,3 +1,9 @@
+# Initialization
+```
+//利用npx创建基于TypeScript的React模板项目
+npx create-react-app my-app-ts --template typescript
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
